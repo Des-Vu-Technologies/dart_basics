@@ -37,5 +37,3 @@ Snake case combines words by replacing spaces with underscores (`_`). Using the 
 
 Kebab case is similar to snake case, but it replaces spaces with dashes (`-`). The file name "public domain software" in kebab case is `public-domain-software`.
 ```
-
-Feel free to copy the Markdown content above.
