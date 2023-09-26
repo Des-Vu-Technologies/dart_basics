@@ -31,7 +31,6 @@ void main() {
 }
 
 
-Certainly, here's how you can convert an `int` to a `String` in Dart, along with the code example, formatted as Markdown:
 
 ## Convert `int` to `String` in Dart
 
