@@ -49,4 +49,3 @@ When creating variables in Dart, you should follow these rules:
 - Special characters are not allowed except for the underscore (`_`) and the dollar (`$`) sign.
 ```
 
-You can easily copy and paste this Markdown code as needed.
