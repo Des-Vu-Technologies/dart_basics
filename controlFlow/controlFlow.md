@@ -7,15 +7,16 @@ Control flow in Dart refers to how a program's execution path is determined base
 
 Conditional statements allow you to execute different blocks of code based on whether a condition is true or false. Here's the basic syntax:
 
-````
+
 ```dart
+
 if (condition) {
   // Code to execute if condition is true
 } else {
   // Code to execute if condition is false
 }
 ````
-````
+
 
 Example:
 
@@ -47,7 +48,7 @@ switch (expression) {
 }
 ```
 
-Example:
+# Example:
 
 ```dart
 String day = 'Tuesday';
