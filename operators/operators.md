@@ -1,5 +1,3 @@
-
-
 ### Arithmetic Operators:
 
 Arithmetic operators are used for mathematical operations.
@@ -84,5 +82,44 @@ x %= 5; // x is now 3
 
 
 ```
+
+## Type Test Operator
+
+In Dart, type test operators are used to check the type of an object or variable at runtime. They allow you to determine whether an object is an instance of a particular class or type. Dart provides three main type test operators:
+
+1. `is` Operator:
+
+   The `is` operator is used to check if an object is an instance of a specific class or type. It returns a Boolean value (`true` or `false`) based on the comparison.
+
+   ```dart
+   if (myObject is String) {
+     print('myObject is a String');
+   } else {
+     print('myObject is not a String');
+   }
+   ```
+
+2. `as` Operator:
+
+   The `as` operator is used for type casting or type conversion. It attempts to cast an object to a specified type and returns the object of that type if successful or `null` if the conversion fails.
+
+   ```dart
+   var myObject = 'Hello';
+   String? myString = myObject as String?;
+   ```
+
+3. `is!` Operator (Negation of `is`):
+
+   The `is!` operator is the negation of the `is` operator. It checks if an object is not an instance of a specific class or type.
+
+   ```dart
+   if (myObject is! int) {
+     print('myObject is not an integer');
+   }
+   ```
+
+These type test operators are handy for checking the compatibility of objects before performing operations on them, especially when working with polymorphic code or dealing with objects of different types.
+
 ## Conclusion
+
 These are some of the fundamental operators in Dart. Dart also supports bitwise operators, conditional (ternary) operator, and more. Understanding how to use these operators is crucial for performing various operations in your Dart programs.
