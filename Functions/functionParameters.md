@@ -1,7 +1,7 @@
 ```
 In Dart, function parameters are used to pass values into functions.
 Parameters allow you to make your functions more flexible and reusable
- by accepting input data that can be used within the function's body.
+by accepting input data that can be used within the function's body.
 Dart functions can have zero or more parameters, and each parameter has a data type and a name.
 ```
 
