@@ -1,5 +1,7 @@
 ```
-In Dart, you can perform various mathematical operations using built-in functions and operators. Here are some common mathematical operations you can perform in Dart:
+In Dart, you can perform various mathematical operations using built-in
+functions and operators. Here are some common mathematical operations you
+can perform in Dart:
 
  To use math in dart, you must import 'dart:math';.
 
