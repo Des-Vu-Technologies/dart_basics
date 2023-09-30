@@ -1,5 +1,7 @@
 ```
-In Dart, arrow functions, also known as "fat arrow" functions, provide a concise way to define functions, especially for short, one-liner functions. Arrow functions are often used for functions that have a single expression and return a value. Here's how you can define an arrow function in Dart:
+In Dart, arrow functions, also known as "fat arrow" functions, provide a concise way to define functions,
+especially for short, one-liner functions. Arrow functions are often used for functions that have a single
+expression and return a value. Here's how you can define an arrow function in Dart:
 ```
 
 ```dart
