@@ -1,5 +1,8 @@
 ```
-In Dart, anonymous functions, also known as lambda functions or closures, are functions that don't have a name. They are often used for short, one-off operations and can be assigned to variables or passed as arguments to other functions. Here's how you can define anonymous functions in Dart:
+In Dart, anonymous functions, also known as lambda functions or closures, are functions that
+don't have a name. They are often used for short, one-off operations and can be assigned to
+variables or passed as arguments to other functions. Here's how you can define anonymous
+functions in Dart:
 ```
 
 ```dart
