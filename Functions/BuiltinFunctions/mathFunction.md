@@ -7,6 +7,7 @@ can perform in Dart:
 
 
 ```
+
 ### Basic Arithmetic Operations:
 
 Dart supports the basic arithmetic operations, including addition, subtraction, multiplication, and division, using operators like `+`, `-`, `*`, and `/`.
@@ -26,6 +27,7 @@ void main() {
   print('Product: $product');
   print('Quotient: $quotient');
 }
+
 ```
 
 ### Modulus Operator:
@@ -65,6 +67,7 @@ void main() {
   print('Cosine: $cosine');
   print('Tangent: $tangent');
 }
+
 ```
 
 ### Random Numbers:
@@ -82,6 +85,7 @@ void main() {
 
   print('Random Number: $randomNumber');
 }
+
 ```
 
 These are some of the fundamental mathematical operations and functions available in Dart. Depending on your needs, you can perform a wide range of mathematical calculations in your Dart programs.
