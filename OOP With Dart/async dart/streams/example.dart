@@ -22,7 +22,7 @@ void main() {
     subscription.cancel(); // Cancel the subscription
   });
 }
-
+//function
 // Function to generate and add random numbers to the stream
 void generateRandomNumbers(StreamController<int> controller, {int count = 1}) {
   final random = Random();
