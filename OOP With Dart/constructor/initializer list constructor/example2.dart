@@ -6,8 +6,7 @@ class Point {
   final double distanceFromOrigin;
 
   Point(double x, double y)
-      : assert(x >= 0, 'x must be non-negative'),
-        assert(y >= 0, 'y must be non-negative'),
+      : 
         x = x < 0 ? throw ArgumentError('x must be non-negative') : x,
         y = y < 0 ? throw ArgumentError('y must be non-negative') : y,
         distanceFromOrigin = _calculateDistance(x, y);
