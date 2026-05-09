@@ -2,7 +2,7 @@
 
 Welcome to the Dart programming language tutorial. In this comprehensive tutorial, you'll learn the fundamentals of Dart, a powerful and flexible language for building web, mobile, and desktop applications. Whether you're a beginner looking to start your journey in programming or an experienced developer exploring Dart, this tutorial has something for you.
 
-## Table of Contents
+## Table of Content
 
 1. [Introduction to Dart](./#introduction-to-dart)
 2. [Getting Started](./#getting-started)
