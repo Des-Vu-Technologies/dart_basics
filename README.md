@@ -1,23 +1,23 @@
-# Dart Tutorial by Dès Vu Technologies
+# Dart Tutorial
 
-Welcome to the Dart programming language tutorial brought to you by Dès Vu Technologies. In this comprehensive tutorial, you'll learn the fundamentals of Dart, a powerful and flexible language for building web, mobile, and desktop applications. Whether you're a beginner looking to start your journey in programming or an experienced developer exploring Dart, this tutorial has something for you.
+Welcome to the Dart programming language tutorial. In this comprehensive tutorial, you'll learn the fundamentals of Dart, a powerful and flexible language for building web, mobile, and desktop applications. Whether you're a beginner looking to start your journey in programming or an experienced developer exploring Dart, this tutorial has something for you.
 
 ## Table of Contents
 
-1. [Introduction to Dart](#introduction-to-dart)
-2. [Getting Started](#getting-started)
-3. [Variables and Data Types](#variables-and-data-types)
-4. [Control Flow](#control-flow)
-5. [Functions](#functions)
-6. [Collections](#collections)
-7. [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
-8. [Asynchronous Programming](#asynchronous-programming)
-9. [Error Handling](#error-handling)
-10. [Dart Packages and Libraries](#dart-packages-and-libraries)
-11. [Dart for Web Development](#dart-for-web-development)
-12. [Dart for Mobile App Development](#dart-for-mobile-app-development)
-13. [Dart for Desktop Applications](#dart-for-desktop-applications)
-14. [Conclusion](#conclusion)
+1. [Introduction to Dart](./#introduction-to-dart)
+2. [Getting Started](./#getting-started)
+3. [Variables and Data Types](./#variables-and-data-types)
+4. [Control Flow](./#control-flow)
+5. [Functions](./#functions)
+6. [Collections](./#collections)
+7. [Object-Oriented Programming (OOP)](./#object-oriented-programming-oop)
+8. [Asynchronous Programming](./#asynchronous-programming)
+9. [Error Handling](./#error-handling)
+10. [Dart Packages and Libraries](./#dart-packages-and-libraries)
+11. [Dart for Web Development](./#dart-for-web-development)
+12. [Dart for Mobile App Development](./#dart-for-mobile-app-development)
+13. [Dart for Desktop Applications](./#dart-for-desktop-applications)
+14. [Conclusion](./#conclusion)
 
 ## Introduction to Dart
 
